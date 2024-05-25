@@ -1,0 +1,6 @@
+.cl2{
+    @media screen {max-width: 200px;
+        
+    }
+    display: flex;
+}
